@@ -1,7 +1,7 @@
 name: The Everton Project
 favicon: null
-layout_spectrum: 0.2209871558006853
-typography_spectrum: 0.06360237649641931
+layout_spectrum: 0.0514
+typography_spectrum: 0.31311
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#333333'
+    - '#0018ff'
+    - '#080808'
+    - '#717171'
   brandStrength: 0.19944069418124855
   lightness: 0.24549233936704695
   saturation: 0.7737487053964287
